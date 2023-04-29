@@ -121,9 +121,9 @@ print(f"Value of Element 4: {ll.get_position(4).value}")
 # print(f"Value of New Element 3: {ll.get_position(3).value}")
 
 # Delete at end
-ll.delete(element4.value)
-print(f"Value of New Element 1: {ll.get_position(1).value}")
-print(f"Value of New Element 2: {ll.get_position(2).value}")
-print(f"Value of New Element 3: {ll.get_position(3).value}")
-print(f"Element 4: {ll.get_position(4)}")
+# ll.delete(element4.value)
+# print(f"Value of New Element 1: {ll.get_position(1).value}")
+# print(f"Value of New Element 2: {ll.get_position(2).value}")
+# print(f"Value of New Element 3: {ll.get_position(3).value}")
+# print(f"Element 4: {ll.get_position(4)}")
 
